@@ -1,0 +1,20 @@
+# Washify Laundry Robots.txt
+User-agent: *
+Allow: /
+Allow: /services/
+Allow: /locations/
+Allow: /pricing
+Allow: /how-it-works
+Allow: /about
+Allow: /contact
+Allow: /terms
+
+# Disallow administrative, private and internal paths
+Disallow: /admin
+Disallow: /#admin
+Disallow: /api/
+Disallow: /*?*orderId=
+Disallow: /*?*tracking=
+
+# Sitemap index location
+Sitemap: https://www.washifylaundry.com/sitemap.xml

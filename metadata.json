@@ -1,0 +1,6 @@
+{
+  "name": "Washify Laundry - India's Smart Laundry",
+  "description": "Founded in 2022, Washify Laundry delivers top-quality garment care and dry cleaning across Pune, Mumbai, and Bangalore with convenient doorstep pickup and delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
